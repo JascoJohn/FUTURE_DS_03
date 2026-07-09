@@ -1,0 +1,6 @@
+bank+marketing.zip
+bank+marketing/
+venv/
+__pycache__/
+test.py
+data/bank-additional-full.csv
